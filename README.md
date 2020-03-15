@@ -1,2 +1,2 @@
 # PyTorch
-Deep Learning Using PyTorch framewrok
+Deep Learning Using PyTorch framework
